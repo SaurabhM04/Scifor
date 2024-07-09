@@ -1,3 +1,5 @@
+# Uses concepts of pylint,flake8
+
 import tkinter as tk
 from math import sqrt
 
